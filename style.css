@@ -1,0 +1,20 @@
+body{
+    background-color:darkslategray;
+
+}
+
+.welcome{
+    color:burlywood
+}
+
+h1{
+    color:white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+p{
+    color:burlywood;
+}
+
